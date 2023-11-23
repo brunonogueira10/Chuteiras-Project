@@ -23,6 +23,11 @@ Chuteiras = [
         'chuteira': 'Puma Evospeed',
         'fabricante':'Puma'
     }
+    {
+        'id': 5,
+        'chuteira': 'Puma Ourosbolro',
+        'fabricante':'Puma'
+    }
 ]
 
 
